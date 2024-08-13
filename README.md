@@ -24,8 +24,3 @@ img_height = dataset.training.height;
 img_width = dataset.training.width;
 ```
 
-### Python
-
-
-```
-```
